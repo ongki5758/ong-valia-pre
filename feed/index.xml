@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>(1) Traveling, Hotel, Cafe, Coffee Shop, Bar, Spa</title>
+	<title>Home</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Produk COD (Bayar di Tempat)</description>
-	<lastBuildDate>Sun, 22 Aug 2021 18:17:17 +0000</lastBuildDate>
+	<description>Profile</description>
+	<lastBuildDate>Mon, 23 Aug 2021 07:41:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
